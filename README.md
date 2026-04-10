@@ -105,7 +105,7 @@
 ---
 
 # Reference
-* Kaggle Bank Customer Churn Dataset: [[Dataset Link] (링크가 있다면 추가해주세요)](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data)
+* Kaggle Bank Customer Churn Dataset: [[Dataset Link]](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data)
 * SHAP (SHapley Additive exPlanations) Documentation
 * PyCaret Documentation
 * Optuna Documentation
