@@ -72,6 +72,7 @@
 * **데이터 분할:** 클래스 불균형(8:2)을 고려하여 `stratify=y` 옵션을 적용한 Train/Validation(8:2) 분할.
 
 ### 1.2. AutoML 및 최적화 (Optuna)
+<img width="975" height="493" alt="image" src="https://github.com/user-attachments/assets/1073543e-af96-4c14-8c8a-d837129a579e" />
 * **PyCaret 초기 탐색:** 모든 분류 모델 비교 후 F1 Score 기준 상위 4개 모델 선정 (AdaBoost, LightGBM, GradientBoosting, RandomForest).
 * **Optuna 하이퍼파라미터 튜닝:** 각 상위 4개 모델에 대해 Optuna를 활용하여 튜닝 진행.
     * **튜닝 후 성능 (F1 Score):**
