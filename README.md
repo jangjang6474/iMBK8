@@ -15,7 +15,6 @@
 * **Statistics:** Statsmodels (VIF)
 
 ---
-
 # EDA
 ## 1. 데이터
 * **Source:** 캐글 Bank Customer Churn Dataset
@@ -105,7 +104,7 @@
 ---
 
 # Reference
-* Kaggle Bank Customer Churn Dataset: [Dataset Link] (링크가 있다면 추가해주세요)
+* Kaggle Bank Customer Churn Dataset: [[Dataset Link] (링크가 있다면 추가해주세요)](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data)
 * SHAP (SHapley Additive exPlanations) Documentation
 * PyCaret Documentation
 * Optuna Documentation
