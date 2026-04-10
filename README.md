@@ -54,6 +54,7 @@
 
 ### 3.1. 데이터 분포 탐색
 <img width="1183" height="1184" alt="hist" src="https://github.com/user-attachments/assets/17e3bd64-e292-45da-af77-fb80a6eb32f7" />
+
 * **종속변수 분포:** `churn` 데이터는 대략 8:2 비율로 클래스 불균형 존재.
 
 ### 3.2. Age_Churn 관계도
